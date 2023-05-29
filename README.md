@@ -26,3 +26,8 @@ Run the code:
 Save the app.js file and execute the following command in your terminal or command prompt:
 </br>
 ![image](https://github.com/divyesh123-jain/tesseract/assets/97737499/6ed7bf05-2555-44fd-b0b8-3bafb1fedff0)
+<br>
+The code will load the PDF file, parse its contents, perform OCR using Tesseract, and output the resulting JSON data to the console.
+
+That's it! By following these steps, you can use Tesseract with Node.js and convert PDF data into JSON format using the tesseract.js and pdf2json libraries.
+</br>
